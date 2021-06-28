@@ -1,0 +1,122 @@
+@media(max-width:1200px){
+    .header-text {
+        width: 60%;
+    }
+    .container {
+        width: 100%;
+        margin: auto;
+    }
+}
+@media(max-width:1100px){
+    .header-manu .header-text ul li a {
+        padding: 0 17px;
+    }
+    
+}
+@media(max-width:850px){
+    .header-text {
+        width: 100%;
+        text-align: center;
+    }
+    .header-icon.left {
+        width: 100%;
+        text-align: center;
+    }
+    .service-iner {
+        width: 50%;
+    }
+    .about-left {
+        width: 100%;
+    }
+    .about-right {
+        width: 100%;
+        padding-left: 35px;
+        box-sizing: border-box;
+        color: grey;
+    }
+    .about-left {
+        width: 100%;
+    }
+    .about-left img{
+        max-width: 100%;
+    }
+    .about-left img {
+        width: 100%;
+        margin: 20px auto;
+    }
+    
+}
+@media(max-width:750px){
+    .slider-section {
+        padding: 74px;
+    }
+    
+}
+@media(max-width:675px){
+    .slider-text h2 {
+        font-size: 38px;
+    }
+    
+}
+@media(max-width:550px){
+    .slider-text h2 {
+        font-size: 32px;
+    }
+    .slider-text p {
+        font-size: 16px;
+        margin-bottom: 25px;
+    }
+    .service-iner {
+        width: 100%;
+    }
+    .contect-item {
+        width: 100%;
+        margin-bottom: 20px;
+    }
+    .futter-top {
+        background-color: #0dbf9b;
+        padding: 12px;
+    }
+}
+@media(max-width:520px){
+    .header-manu .header-text ul li a {
+        padding: 0px 10px;
+    }
+    
+}
+@media(max-width:485px){
+    .slider-section {
+        padding: 50px;
+    }
+    .slider-text h2 {
+        font-size: 29px;
+    }
+    .slider-text a {
+        border: 1px solid white;
+        padding: 4px 13px;
+    }
+    
+}
+
+@media(max-width:430px){
+    .header-manu .header-text ul li a {
+        padding: 0px 5px;
+    }
+    
+}
+@media(max-width:410px){
+    .slider-section {
+        padding: 30px;
+    }
+    .slider-text h2 {
+        font-size: 25px;
+    }
+    .slider-text p {
+        font-size: 12px;
+        margin-bottom: 20px;
+    }
+    .header-manu .header-icon h2 {
+        padding: 6px 50px;
+    }
+    
+}
